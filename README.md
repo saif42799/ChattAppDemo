@@ -16,6 +16,14 @@ React - framework <br>
 ## Backend Technologies
 NodeJs - runtime <be>
 
+## Images
+![screenshot](server\images\img1.PNG) <br>
+
+![screenshot](server\images\img2.PNG) <br>
+
+![screenshot](server\images\img3.PNG) <br>
+
+![screenshot](server\images\img4.PNG) <br>
 
 
 *   🌍  I'm based in Atlanta
