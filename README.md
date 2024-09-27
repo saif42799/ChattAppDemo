@@ -17,13 +17,13 @@ React - framework <br>
 NodeJs - runtime <be>
 
 ## Images
-![screenshot](images\img1.PNG) <br>
+![screenshot](images/img1.PNG) <br>
 
-![screenshot](images\img2.PNG) <br>
+![screenshot](images/img2.PNG) <br>
 
-![screenshot](images\img3.PNG) <br>
+![screenshot](images/img3.PNG) <br>
 
-![screenshot](images\img4.PNG) <br>
+![screenshot](images/img4.PNG) <br>
 
 
 *   🌍  I'm based in Atlanta
