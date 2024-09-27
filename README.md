@@ -6,6 +6,18 @@ Software Engineer
 
 This a quick little full-stack project using React and Node.js. I followed chatengine.io instructions to develop a chat app where you can make a user and text other users. The main takeaway from this project is to receive and store users using chatengine.io. I am using a free trial so it is limited.
 
+## Technologies that I will be using
+R - React <br>
+N - NodeJs <br>
+
+## Frontend Technologies
+React - framework <br>
+
+## Backend Technologies
+NodeJs - runtime <be>
+
+
+
 *   🌍  I'm based in Atlanta
 *   ✉️  You can contact me at [saif42799@outlook.com](mailto:saif42799@outlook.com)
 *   🧠  I'm learning Whatever I can get my hands on!
