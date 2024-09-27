@@ -17,7 +17,7 @@ React - framework <br>
 NodeJs - runtime <be>
 
 ## Images
-![screenshot](images/img1.PNG) <br>
+<img src="himages\img1.PNG" align="center" height="350" width="600"/> <br>
 
 ![screenshot](images/img2.PNG) <br>
 
